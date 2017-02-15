@@ -1,5 +1,5 @@
 Triviabotstwitch
 irc.twitch.tv
 6667
-#gummy52
+#Cordellium
 oauth:bsebn92vp1oeke79622aeichgsefwm
